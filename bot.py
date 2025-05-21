@@ -13,7 +13,7 @@ def send_start_message(message):
         "<b>Welcome to the DEXProxima VIP Signals Bot!</b>\n\n"
         "To gain <b>free lifetime access</b> to DEXProxima VIP:\n\n"
         "1 - Join ByBit using the button below\n"
-        "2 - Deposit $250\n"
+        "2 - Deposit $100\n"
         "3 - Send your UID after this message!"
     )
 
